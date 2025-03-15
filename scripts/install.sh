@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Set the ID of your GNOME extension
-EXTENSION_ID="quake-terminal@diegodario88.github.io"
+EXTENSION_ID="quake-terminal@darkstorm.tech"
 
 # Set the name of your packed extension file
 PACKED_EXTENSION_FILE="$EXTENSION_ID.shell-extension.zip"
